@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="BattleManager.cs" />
+    <File Path="Character.cs" />
+    <File Path="Dragon.cs" />
+    <File Path="Enemy.cs" />
+    <File Path="Hero.cs" />
+    <File Path="Mage.cs" />
+    <File Path="Orc.cs" />
+    <File Path="Rogue.cs" />
+    <File Path="Warrior.cs" />
+  </Folder>
+  <Project Path="RGP OOP Game 1/RGP OOP Game 1.csproj" />
+</Solution>
