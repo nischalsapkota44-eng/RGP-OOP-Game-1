@@ -9,5 +9,17 @@ public MainMenuForm()
 {
 InitializeComponent();
 }
+
+private void btnNewGame_Click(object sender, EventArgs e)
+{
+CharacterSelectForm charSelect = new CharacterSelectForm();
+charSelect.Show();
+this.Hide();
+}
+
+private void btnQuit_Click(object sender, EventArgs e)
+{
+Application.Exit();
+}
 }
 }
